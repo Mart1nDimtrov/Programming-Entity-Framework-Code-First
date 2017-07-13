@@ -1,0 +1,13 @@
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\BreakAwayGeekAdventures.exe.config
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\BreakAwayGeekAdventures.exe
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\BreakAwayGeekAdventures.pdb
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\AutoMapper.dll
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\EntityFramework.dll
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\System.ValueTuple.dll
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\AutoMapper.xml
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\EntityFramework.xml
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\obj\Debug\BreakAwayGeekAdventuresDataAnnotations.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\obj\Debug\BreakAwayGeekAdventures.exe
+C:\Users\martin\Desktop\BreakAwayGeekAdventures\BreakAwayGeekAdventures\obj\Debug\BreakAwayGeekAdventures.pdb
